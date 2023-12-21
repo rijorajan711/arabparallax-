@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+.homeMain{
+    position: relative;
+    background-image: url("https://media.istockphoto.com/id/1336275187/photo/beautiful-shiny-diamond-in-brilliant-cut-on-black-background-diamond-backdrop-crystal.jpg?s=2048x2048&w=is&k=20&c=XCk3uzOCLEJDu1tynfJqjN2-rD0VzmqAVAzVZc_iIpk=");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+   
+
+
+.firstHead{
+    left:10%;
+   
+    color: white;
+    font-family: 'Lobster', sans-serif;
+    font-size:150px;
+    position: absolute;
+}
+
+.firstHea{
+    right: 10%;
+    color: white;
+    font-family: 'Lobster', sans-serif;
+    font-size:150px;
+    position: absolute;
+    bottom: 10%;
+  
+}
+
+
+
+.homeMainSecond{
+    
+
+    position: relative;
+    background-image: url("https://media.istockphoto.com/id/1336275187/photo/beautiful-shiny-diamond-in-brilliant-cut-on-black-background-diamond-backdrop-crystal.jpg?s=2048x2048&w=is&k=20&c=XCk3uzOCLEJDu1tynfJqjN2-rD0VzmqAVAzVZc_iIpk=");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    color: white;
+}
+
+.iphone16{
+    position: absolute;
+    width: 50%;
+    left: 50%;
+    height: 100%;
+   
+}
+
+.iphone16P{
+    width: 40%;
+    position: absolute;
+    font-family: 'Lobster', sans-serif;
+    font-size: xx-large;
+       
+}
+
+.homeMainThird{
+    
+
+    position: relative;
+    background-image: url("https://media.istockphoto.com/id/1336275187/photo/beautiful-shiny-diamond-in-brilliant-cut-on-black-background-diamond-backdrop-crystal.jpg?s=2048x2048&w=is&k=20&c=XCk3uzOCLEJDu1tynfJqjN2-rD0VzmqAVAzVZc_iIpk=");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+
+    color: white;
+}
+
+.iphone14{
+    position: absolute;
+    width: 50%;
+    left:0%;
+    height: 90%;
+    top: 2%;
+   
+}
+
+.iphone14P{
+    width: 40%;
+    position: absolute;
+    font-family: 'Lobster', sans-serif;
+    font-size: xx-large;
+       
+}
+  
+  
+    
+    
+   
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
